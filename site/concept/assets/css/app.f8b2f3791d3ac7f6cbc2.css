@@ -777,7 +777,7 @@ td,th{
 .kickstart .grid-img:after{
     position:absolute;
     content:"";
-    background:url(assets/img/grid-img.png) no-repeat;
+    background:url(../assets/img/grid-img.png) no-repeat;
     width:298px;
     height:295px;
     left:-8%;
